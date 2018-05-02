@@ -2,7 +2,7 @@
 {
     
     
-        public enum GradebookType
+        public enum GradeBookType
         {
             standard,
             Ranked,
